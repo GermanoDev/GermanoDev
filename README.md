@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @GermanoDev
-- 📫 How to reach me Instagram: @denisgermanoo
+- I like to study the area of offensive security, defensive and programming
